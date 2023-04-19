@@ -7,7 +7,7 @@
 
 # CodeForces Problem Solving 
 
-- Here You'll find the solution of <a href = "https://codeforces.com/problemset?order=BY_RATING_ASC"> CodeForces </a> Problems.File names are given the problem title for easy identification.
+- Here You'll find the solution of <a href = "https://codeforces.com/problemset?order=BY_RATING_ASC"> CodeForces </a> Rated & Contest Problems.File names are given the problem title for easy identification.
 
 ## Find Me
 
